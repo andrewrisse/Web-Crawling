@@ -1,0 +1,37 @@
+Name: Andrew Risse
+USC ID: 5987029524
+News site crawled: bbc.com
+Fetch Statistics
+================
+# fetches attempted: 19947
+# fetches succeeded: 16063
+# fetches failed or aborted:3884
+Outgoing URLs:
+==============
+Total URLs extracted: 903327
+# unique URLs extracted: 198121
+# unique URLs within News Site: 85796
+# unique URLs outside News Site: 112325
+Status Codes:
+=============
+200 OK: 16063
+301 Moved Permanently: 1649
+302 Found (Previously "Moved temporarily"): 1825
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 348
+500 Internal Server Error: 62
+File Sizes:
+===========
+< 1KB: 15487
+1KB ~ <10KB: 517
+10KB ~ <100KB: 0
+100KB ~ <1MB: 0
+>= 1MB: 0
+Content Types:
+==============
+text/html: 16004 (all were text/html)
+image/gif: 0
+image/jpeg: 0
+image/png: 0
+application/pdf: 0
